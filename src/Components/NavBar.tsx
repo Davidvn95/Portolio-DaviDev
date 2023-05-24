@@ -16,7 +16,7 @@ export function NavBar() {
     },[])
 
     return (
-        <header className="flex items-end p-4 justify-between fixed inset-x-0">
+        <header className="flex items-end p-4 pl-20 pr-20 justify-between fixed inset-x-0">
             <Image src={Logo} alt="Logo" />
 
             <ul className="text-white font-roboto font-extralight text-lg flex items-end justify-between gap-14">
