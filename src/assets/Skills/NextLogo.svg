@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-nextjs" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="url(#myGradient)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <defs>
+     <linearGradient id="myGradient" x1="0" y1="0" x2="1" y2="0">
+       <stop offset="0%" stop-color="white" stop-opacity="1"/>
+       <stop offset="100%" stop-color="#64748b" stop-opacity="1"/>
+     </linearGradient>
+   </defs>
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M9 15v-6l7.745 10.65a9 9 0 1 1 2.255 -1.993"></path>
+   <path stroke="#9fa9b7" d="M15 12v-3" fill="none"></path>
+</svg>
